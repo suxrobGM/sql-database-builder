@@ -1,2 +1,2 @@
 # SqlDatabaseBuilder
-Library for dynamically SQL database building
+.NET library for building dynamically SQL database.
